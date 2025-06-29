@@ -1,7 +1,5 @@
 ## Hi I'm Jukka or Yucca, Jugi, Yugi,... 👋
 
-<!--
-
 I'm a software business generalist with a passion for turning real customer problems into impactful digital solutions. My career has focused on the full product lifecycle — not so much on coding, but everything else around it:
 
 - 🚀 Problem discovery and validation  
